@@ -16,7 +16,7 @@ def calc_square(numbers):
         result.append(number*number)
     return result
 
-numbers=range(0,5)
+numbers=range(0,100)
 
 calc_square(numbers=numbers)
 
